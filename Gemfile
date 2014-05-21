@@ -25,7 +25,7 @@ group :assets do
   gem 'uglifier', '2.1.1'
   gem 'jquery-rails', '3.0.4'
   gem 'turbolinks', '1.1.1'
-  gem 'Jbuilder', '1.0.2'
+  gem 'jbuilder', '1.0.2'
 end
 
 group :doc do
@@ -37,9 +37,8 @@ group :production do
 	gem 'rails_12factor', '0.0.2'
 end
 # To use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.0.0'
-
-# To use Jbuilder templates for JSON
+# gem 'bcrypt-ruby', '~> 3.0.0'insta
+# To use Jbuilder templates for JSOinsta
 # gem 'jbuilder'
 
 # Use unicorn as the app server
